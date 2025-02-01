@@ -1,8 +1,18 @@
-# Sample Hardhat Project
+# Vinith Own Crypt currency creation project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+1) The crypto token is created on top of etherium network
+2) initially the require node/ hardhat all dependencies are download in the package.josn file
+3) Then the contract and the hardhat.config.js files are created to generate teh contract for the coin
+4) Then deploy.js file is created to deploy the coin
 
-Try running some of the following tasks:
+5) MetMask wallet is used to store the coin
+6) Alchemy site is used to create teh project online and URL key for this project is created
+7) Uniswap site is used to load the test token and using the ETH i am able to swap BTCL coin
+
+
+   The test is successful, now i can create a live crypto coin in the Etherium or solano network
+
+
 
 ```shell
 npx hardhat help
